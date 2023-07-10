@@ -8,6 +8,10 @@ I'm a web dev who's always tinkering and excited to pick up new technologies.
 
 -Node.js 🔮
 
+-TypeScript 🇹
+
+-Redux 🔒
+
 ### I'm Learning:
 
 -Ruby ❤️
