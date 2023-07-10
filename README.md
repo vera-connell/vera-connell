@@ -4,18 +4,18 @@ I'm a web dev who's always tinkering and excited to pick up new technologies.
 
 ### I Know:
 
--React
+-React ⚛️
 
--Node.js
+-Node.js 🔮
 
 ### I'm Learning:
 
--Ruby
+-Ruby ❤️
 
--Ruby on Rails
+-Ruby on Rails 💖
 
 ### I'm Interested in:
 
--C##
+-C# 🎼
 
--Unity
+-Unity 🧊
