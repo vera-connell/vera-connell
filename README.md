@@ -18,6 +18,8 @@ I'm a web dev who's always tinkering and excited to pick up new technologies.
 
 -Ruby on Rails 💖
 
+-Python 🐍
+
 ### I'm Interested in:
 
 -C# 🎼
