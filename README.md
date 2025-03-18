@@ -12,15 +12,11 @@ I'm a web dev who's always tinkering and excited to pick up new technologies.
 
 -Redux 🔒
 
-### I'm Learning:
-
--Ruby ❤️
-
--Ruby on Rails 💖
-
 -Python 🐍
 
-### I'm Interested in:
+-Docker & Docker Compose 🐋
+
+### I'm Learning:
 
 -C# 🎼
 
